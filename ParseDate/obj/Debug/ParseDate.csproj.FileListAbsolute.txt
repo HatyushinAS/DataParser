@@ -1,0 +1,6 @@
+C:\Docs\Rider\ParseDate\ParseDate\bin\Debug\ParseDate.exe
+C:\Docs\Rider\ParseDate\ParseDate\bin\Debug\ParseDate.pdb
+C:\Docs\Rider\ParseDate\ParseDate\obj\Debug\ParseDate.csprojAssemblyReference.cache
+C:\Docs\Rider\ParseDate\ParseDate\obj\Debug\ParseDate.csproj.CoreCompileInputs.cache
+C:\Docs\Rider\ParseDate\ParseDate\obj\Debug\ParseDate.exe
+C:\Docs\Rider\ParseDate\ParseDate\obj\Debug\ParseDate.pdb
